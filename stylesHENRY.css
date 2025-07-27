@@ -127,6 +127,8 @@ header {
   font-family:'Montserrat';
    margin-bottom: 1.8rem;
    letter-spacing: 0.2px;
+   line-height: 1.2;
+    word-wrap: break-word;
 }
 
 
@@ -163,7 +165,7 @@ header {
 
 
 .inline-banner {
-  display: inline;
+  display: inline-block;
   font-size: 3.6rem;
   font-family: 'Playfair Display', serif;
   background: linear-gradient(90deg, #4f8dfd, #a259c6);
