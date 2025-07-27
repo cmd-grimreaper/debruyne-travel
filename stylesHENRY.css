@@ -5,6 +5,10 @@
   padding: 0;
   box-sizing: border-box;
 }
+body {
+  max-width: 100vw;
+  overflow-x: hidden;
+}
 
 html {
   scroll-behavior: smooth;
@@ -24,6 +28,7 @@ header {
 .logo-container {
   display: flex;
   align-items: center;
+    z-index:2;
 }
 
 .logo-img {
@@ -95,10 +100,11 @@ header {
 }
 
 .hero-content {
-  z-index: 1;
+  z-index: 2;
   text-align: left;
   padding-left: 100px;
   max-width: 700px;
+   position: relative;
 }
 
 .black-letter {
@@ -122,6 +128,39 @@ header {
    margin-bottom: 1.8rem;
    letter-spacing: 0.2px;
 }
+
+
+@media (max-width: 768px) {
+  .hero-content {
+    padding: 0 20px;
+    text-align: center;
+    max-width: 100%;
+  }
+
+  .hero-content h1 {
+    font-size: 2.5rem;
+  }
+
+  .hero-content p {
+    font-size: 1.2rem;
+  }
+
+  .inline-banner {
+    font-size: 1.5rem;
+    display: inline;
+  }
+
+  .button-underline {
+    font-size: 1.8rem;
+  }
+}
+
+
+
+
+
+
+
 
 .inline-banner {
   display: inline;
