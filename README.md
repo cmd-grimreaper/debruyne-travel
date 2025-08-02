@@ -59,5 +59,3 @@ travel-and-tour-website
 
 Thanks to my friend for involving me in this project as part of a school assignment.  
 It was a great way to brush up on my web design skills and revisit the creative process.
-Thanks to my friend for involving me in this project as part of a school assignment.  
-It was a great way to brush up on my web design skills and revisit the creative process.
