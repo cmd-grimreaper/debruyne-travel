@@ -40,7 +40,7 @@ Thanks to my friend for involving me in this project as part of a school assignm
 ![Uploading Screenshot From 2025-08-02 08-15-00.png…]()  <img width="871" height="921" alt="Screenshot From 2025-08-02 08-15-56" src="https://github.com/user-attachments/assets/144e618d-3081-4751-97f5-be9b4076834b" />
 <img width="949" height="919" alt="Screensh<img width="871" height="921" alt="Screenshot From 2025-08-02 08-16-22" src="https://github.com/user-attachments/assets/2d740544-e8ac-4d18-a076-64696ae96fad" />
 ot From 2025-08-02 08-15-38" src="https://github.com/user-attachments/assets<img width="871" height="921" alt="Screenshot From 2025-08-02 08-16-13" src="https://github.com/user-attachments/assets/6a52ad25-e7bf-440c-8252-fb59e6bfc5e9" />
-/f400be9f-e4dd-45ec-a823-ce216494cb42" /><img width="871" height="921" alt="Screenshot From 2025-08-02 08-16-07" src="https://github.com/user-attachments/assets/540673a8-777c-4a99-86f6-4006eb62f651" />
+<img width="871" height="921" alt="Screenshot From 2025-08-02 08-16-07" src="https://github.com/user-attachments/assets/"/>
 
 
 
